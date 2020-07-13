@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+<<<<<<< HEAD
 p {
     color: gray;
+=======
+h1 {
+    color: blue;
+    background: orange;
+>>>>>>> first
 }
